@@ -1,0 +1,15 @@
+<pretext>
+    <article>
+        <title>Sample PreTeXt Document</title>
+        <author>
+            <personname>
+                <firstname>Felix</firstname>
+                <surname>Gomez</surname>
+            </personname>
+        </author>
+        <section>
+            <title>Introduction</title>
+            <p>This is a simple PreTeXt document.</p>
+        </section>
+    </article>
+</pretext>
